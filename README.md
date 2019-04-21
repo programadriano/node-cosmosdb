@@ -1,5 +1,3 @@
-﻿# node-express
-Projeto criado para demonstrar como podemos criar uma API com uma estrutura legal em 10 passos ;) 
+﻿# node-cosmosdb
+Projeto criado para demonstrar como podemos criar uma API RESTful com Node.js e o Cosmos DB
 
-Link do post:
-https://goo.gl/zMwY28 
